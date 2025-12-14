@@ -1,0 +1,8 @@
+Retriever BM25 prepared in 0.02094101905822754 seconds
+[0]: Semantic Similarity: 0.30609,	 retrieve time: 0.16319751739501953,	 generate time: 10.01809310913086
+[0]: [Cumulative]: Semantic Similarity: 0.30609,	 retrieve time: 0.16319751739501953,	 generate time: 10.01809310913086
+
+Result for ./rag_results.txt
+Prepare time: 0.02094101905822754
+Average Semantic Similarity: 0.3060908317565918
+retrieve time: 0.16319751739501953,	 generate time: 10.01809310913086
