@@ -1,0 +1,22 @@
+KVcache prepared in 3.0794389247894287 seconds
+[0]: Semantic Similarity: 0.80268,	 cache time: 1.1920928955078125e-06,	 generate time: 0.1598207950592041
+[0]: [Cumulative]: Semantic Similarity: 0.80268,	 cache time: 1.1920928955078125e-06,	 generate time: 0.1598207950592041
+[1]: Semantic Similarity: 0.70655,	 cache time: 9.5367431640625e-07,	 generate time: 0.6330854892730713
+[1]: [Cumulative]: Semantic Similarity: 0.75462,	 cache time: 1.0728836059570312e-06,	 generate time: 0.3964531421661377
+[2]: Semantic Similarity: 0.19179,	 cache time: 7.152557373046875e-07,	 generate time: 0.22777700424194336
+[2]: [Cumulative]: Semantic Similarity: 0.56701,	 cache time: 9.5367431640625e-07,	 generate time: 0.34022776285807294
+[3]: Semantic Similarity: 0.11399,	 cache time: 7.152557373046875e-07,	 generate time: 0.3973507881164551
+[3]: [Cumulative]: Semantic Similarity: 0.45375,	 cache time: 8.940696716308594e-07,	 generate time: 0.35450851917266846
+[4]: Semantic Similarity: 0.17272,	 cache time: 7.152557373046875e-07,	 generate time: 0.04434823989868164
+[4]: [Cumulative]: Semantic Similarity: 0.39755,	 cache time: 8.58306884765625e-07,	 generate time: 0.2924764633178711
+[5]: Semantic Similarity: 0.16796,	 cache time: 7.152557373046875e-07,	 generate time: 0.04368138313293457
+[5]: [Cumulative]: Semantic Similarity: 0.35928,	 cache time: 8.344650268554688e-07,	 generate time: 0.25101061662038165
+[6]: Semantic Similarity: 0.5032,	 cache time: 7.152557373046875e-07,	 generate time: 0.04595756530761719
+[6]: [Cumulative]: Semantic Similarity: 0.37984,	 cache time: 8.174351283482142e-07,	 generate time: 0.22171732357570104
+[7]: Semantic Similarity: 0.24284,	 cache time: 9.5367431640625e-07,	 generate time: 0.259594202041626
+[7]: [Cumulative]: Semantic Similarity: 0.36272,	 cache time: 8.344650268554688e-07,	 generate time: 0.22645193338394165
+
+Result for ./result_kvcache.txt_0
+Prepare time: 3.0794389247894287
+Average Semantic Similarity: 0.36271628737449646
+cache time: 8.344650268554688e-07,	 generate time: 0.22645193338394165

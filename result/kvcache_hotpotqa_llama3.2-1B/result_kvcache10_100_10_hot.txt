@@ -1,0 +1,26 @@
+KVcache prepared in 3.7217159271240234 seconds
+[0]: Semantic Similarity: 0.80268,	 cache time: 7.152557373046875e-07,	 generate time: 0.16732096672058105
+[0]: [Cumulative]: Semantic Similarity: 0.80268,	 cache time: 7.152557373046875e-07,	 generate time: 0.16732096672058105
+[1]: Semantic Similarity: 0.21284,	 cache time: 4.76837158203125e-07,	 generate time: 0.04843020439147949
+[1]: [Cumulative]: Semantic Similarity: 0.50776,	 cache time: 5.960464477539062e-07,	 generate time: 0.10787558555603027
+[2]: Semantic Similarity: 0.17956,	 cache time: 7.152557373046875e-07,	 generate time: 0.301527738571167
+[2]: [Cumulative]: Semantic Similarity: 0.39836,	 cache time: 6.357828776041666e-07,	 generate time: 0.17242630322774252
+[3]: Semantic Similarity: 0.16449,	 cache time: 7.152557373046875e-07,	 generate time: 1.2060461044311523
+[3]: [Cumulative]: Semantic Similarity: 0.33989,	 cache time: 6.556510925292969e-07,	 generate time: 0.43083125352859497
+[4]: Semantic Similarity: 0.17272,	 cache time: 7.152557373046875e-07,	 generate time: 0.048662662506103516
+[4]: [Cumulative]: Semantic Similarity: 0.30646,	 cache time: 6.67572021484375e-07,	 generate time: 0.3543975353240967
+[5]: Semantic Similarity: 0.16796,	 cache time: 7.152557373046875e-07,	 generate time: 0.048726797103881836
+[5]: [Cumulative]: Semantic Similarity: 0.28337,	 cache time: 6.755193074544271e-07,	 generate time: 0.3034524122873942
+[6]: Semantic Similarity: 0.5032,	 cache time: 9.5367431640625e-07,	 generate time: 0.051305294036865234
+[6]: [Cumulative]: Semantic Similarity: 0.31478,	 cache time: 7.152557373046875e-07,	 generate time: 0.2674313953944615
+[7]: Semantic Similarity: 0.31587,	 cache time: 7.152557373046875e-07,	 generate time: 0.17114925384521484
+[7]: [Cumulative]: Semantic Similarity: 0.31491,	 cache time: 7.152557373046875e-07,	 generate time: 0.25539612770080566
+[8]: Semantic Similarity: 0.27797,	 cache time: 9.5367431640625e-07,	 generate time: 0.17077946662902832
+[8]: [Cumulative]: Semantic Similarity: 0.31081,	 cache time: 7.417466905381945e-07,	 generate time: 0.24599427647060818
+[9]: Semantic Similarity: 0.35311,	 cache time: 7.152557373046875e-07,	 generate time: 0.05006814002990723
+[9]: [Cumulative]: Semantic Similarity: 0.31504,	 cache time: 7.390975952148438e-07,	 generate time: 0.2264016628265381
+
+Result for ./result_kvcache.txt
+Prepare time: 3.7217159271240234
+Average Semantic Similarity: 0.3150386542081833
+cache time: 7.390975952148438e-07,	 generate time: 0.2264016628265381
