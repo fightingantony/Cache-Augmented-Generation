@@ -1,0 +1,22 @@
+Retriever BM25 prepared in 0.03901314735412598 seconds
+[0]: Semantic Similarity: 0.30609,	 retrieve time: 0.1703629493713379,	 generate time: 9.765540361404419
+[0]: [Cumulative]: Semantic Similarity: 0.30609,	 retrieve time: 0.1703629493713379,	 generate time: 9.765540361404419
+[1]: Semantic Similarity: 0.64392,	 retrieve time: 0.003383636474609375,	 generate time: 0.6813719272613525
+[1]: [Cumulative]: Semantic Similarity: 0.475,	 retrieve time: 0.08687329292297363,	 generate time: 5.223456144332886
+[2]: Semantic Similarity: 0.56038,	 retrieve time: 0.003350496292114258,	 generate time: 0.6903817653656006
+[2]: [Cumulative]: Semantic Similarity: 0.50346,	 retrieve time: 0.05903236071268717,	 generate time: 3.7124313513437905
+[3]: Semantic Similarity: 0.41045,	 retrieve time: 0.0038423538208007812,	 generate time: 1.598154067993164
+[3]: [Cumulative]: Semantic Similarity: 0.48021,	 retrieve time: 0.045234858989715576,	 generate time: 3.183862030506134
+[4]: Semantic Similarity: 0.17136,	 retrieve time: 0.0036919116973876953,	 generate time: 0.3021113872528076
+[4]: [Cumulative]: Semantic Similarity: 0.41844,	 retrieve time: 0.03692626953125,	 generate time: 2.6075119018554687
+[5]: Semantic Similarity: 0.13656,	 retrieve time: 0.003318309783935547,	 generate time: 1.1765532493591309
+[5]: [Cumulative]: Semantic Similarity: 0.37146,	 retrieve time: 0.03132494290669759,	 generate time: 2.369018793106079
+[6]: Semantic Similarity: 0.01553,	 retrieve time: 0.003500699996948242,	 generate time: 2.5072035789489746
+[6]: [Cumulative]: Semantic Similarity: 0.32061,	 retrieve time: 0.027350051062447683,	 generate time: 2.3887594767979214
+[7]: Semantic Similarity: 0.11818,	 retrieve time: 0.0040225982666015625,	 generate time: 2.394559860229492
+[7]: [Cumulative]: Semantic Similarity: 0.29531,	 retrieve time: 0.02443411946296692,	 generate time: 2.3894845247268677
+
+Result for ./rag_results.txt
+Prepare time: 0.03901314735412598
+Average Semantic Similarity: 0.295308263390325
+retrieve time: 0.02443411946296692,	 generate time: 2.3894845247268677
