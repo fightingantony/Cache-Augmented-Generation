@@ -1,0 +1,16 @@
+Retriever BM25 prepared in 0.11368536949157715 seconds
+[0]: Semantic Similarity: 0.14904,	 retrieve time: 0.1991901397705078,	 generate time: 9.825551271438599
+[0]: [Cumulative]: Semantic Similarity: 0.14904,	 retrieve time: 0.1991901397705078,	 generate time: 9.825551271438599
+[1]: Semantic Similarity: 0.21763,	 retrieve time: 0.0033855438232421875,	 generate time: 0.9124109745025635
+[1]: [Cumulative]: Semantic Similarity: 0.18333,	 retrieve time: 0.101287841796875,	 generate time: 5.368981122970581
+[2]: Semantic Similarity: 0.47473,	 retrieve time: 0.003140687942504883,	 generate time: 9.10371708869934
+[2]: [Cumulative]: Semantic Similarity: 0.28046,	 retrieve time: 0.06857212384541829,	 generate time: 6.613893111546834
+[3]: Semantic Similarity: 0.73284,	 retrieve time: 0.002633810043334961,	 generate time: 0.6311330795288086
+[3]: [Cumulative]: Semantic Similarity: 0.39356,	 retrieve time: 0.05208754539489746,	 generate time: 5.118203103542328
+[4]: Semantic Similarity: 0.30791,	 retrieve time: 0.0025861263275146484,	 generate time: 8.457564115524292
+[4]: [Cumulative]: Semantic Similarity: 0.37643,	 retrieve time: 0.0421872615814209,	 generate time: 5.786075305938721
+
+Result for ./rag_results.txt
+Prepare time: 0.11368536949157715
+Average Semantic Similarity: 0.37642750442028045
+retrieve time: 0.0421872615814209,	 generate time: 5.786075305938721
