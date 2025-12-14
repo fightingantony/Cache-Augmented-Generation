@@ -1,0 +1,26 @@
+Retriever BM25 prepared in 0.22777462005615234 seconds
+[0]: Semantic Similarity: 0.24778,	 retrieve time: 0.22169256210327148,	 generate time: 0.5879204273223877
+[0]: [Cumulative]: Semantic Similarity: 0.24778,	 retrieve time: 0.22169256210327148,	 generate time: 0.5879204273223877
+[1]: Semantic Similarity: 0.25282,	 retrieve time: 0.0037877559661865234,	 generate time: 0.5762465000152588
+[1]: [Cumulative]: Semantic Similarity: 0.2503,	 retrieve time: 0.112740159034729,	 generate time: 0.5820834636688232
+[2]: Semantic Similarity: 0.37727,	 retrieve time: 0.003637075424194336,	 generate time: 0.5689289569854736
+[2]: [Cumulative]: Semantic Similarity: 0.29263,	 retrieve time: 0.07637246449788411,	 generate time: 0.5776986281077067
+[3]: Semantic Similarity: 0.15366,	 retrieve time: 0.003149747848510742,	 generate time: 0.17015576362609863
+[3]: [Cumulative]: Semantic Similarity: 0.25789,	 retrieve time: 0.05806678533554077,	 generate time: 0.4758129119873047
+[4]: Semantic Similarity: 0.9554,	 retrieve time: 0.0031745433807373047,	 generate time: 0.24620842933654785
+[4]: [Cumulative]: Semantic Similarity: 0.39739,	 retrieve time: 0.047088336944580075,	 generate time: 0.42989201545715333
+[5]: Semantic Similarity: 0.95892,	 retrieve time: 0.0044214725494384766,	 generate time: 0.2654275894165039
+[5]: [Cumulative]: Semantic Similarity: 0.49098,	 retrieve time: 0.039977192878723145,	 generate time: 0.40248127778371173
+[6]: Semantic Similarity: 0.14842,	 retrieve time: 0.002949953079223633,	 generate time: 0.4401838779449463
+[6]: [Cumulative]: Semantic Similarity: 0.44204,	 retrieve time: 0.034687587193080356,	 generate time: 0.407867363521031
+[7]: Semantic Similarity: 1.0,	 retrieve time: 0.0026590824127197266,	 generate time: 0.2305591106414795
+[7]: [Cumulative]: Semantic Similarity: 0.51178,	 retrieve time: 0.03068402409553528,	 generate time: 0.38570383191108704
+[8]: Semantic Similarity: 0.26121,	 retrieve time: 0.0032873153686523438,	 generate time: 0.271547794342041
+[8]: [Cumulative]: Semantic Similarity: 0.48394,	 retrieve time: 0.02763994534810384,	 generate time: 0.3730198277367486
+[9]: Semantic Similarity: 0.73894,	 retrieve time: 0.0036644935607910156,	 generate time: 0.2918539047241211
+[9]: [Cumulative]: Semantic Similarity: 0.50944,	 retrieve time: 0.02524240016937256,	 generate time: 0.36490323543548586
+
+Result for ./rag_results.txt
+Prepare time: 0.22777462005615234
+Average Semantic Similarity: 0.5094423025846482
+retrieve time: 0.02524240016937256,	 generate time: 0.36490323543548586
